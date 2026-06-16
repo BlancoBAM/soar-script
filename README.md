@@ -1,5 +1,10 @@
 # soar-list-enhanced
 
+[![Official Website](https://img.shields.io/badge/Official-soar.qaidvoid.dev-blue?style=flat-square&logo=rust)](https://soar.qaidvoid.dev/)
+[![Bash Script](https://img.shields.io/badge/Language-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Powered by pkgforge](https://img.shields.io/badge/Powered%20by-pkgforge-orange?style=flat-square)](https://github.com/pkgforge)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/BlancoBAM/soar-script)
+
 A simple script to enhance the listing capabilities of the [soar package manager](https://github.com/pkgforge/soar).
 
 ## Purpose
